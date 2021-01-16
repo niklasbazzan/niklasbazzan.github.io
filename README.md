@@ -1,0 +1,2 @@
+# niklasbazzan.no
+personal website
