@@ -1,24 +1,24 @@
 body {
-  margin: 60px auto;
+  margin: 40px auto;
   width: 90%;
 }
 
 a {
-  text-decoration: underline;
+  text-decoration: none;
   color: black;
 }
 a:hover {
-  text-decoration: none;
+  text-decoration:underline;
 }
 
 p {
-  font-size: 120%;
-  line-height: 150%;
+  font-size: 100%;
+  line-height: 125%;
   color: 	black;
-  margin: auto;
-  width: 100%;
-  padding: 10px 0px;
+  width: 95%;
+  font-family:'Courier New', Courier, monospace;
 }
+
 
 .flex-container {
     display: flex;
@@ -29,10 +29,34 @@ p {
   .flex-container .fifty {
     background-color: #f1f1f1;
     width: 50%;
-   
-    text-align: justify;
-    line-height: 20px;
-    font-size: 1em;
     color: #000000;
     word-wrap: break-word;
+  }
+
+  .collapsible {
+    cursor: pointer;
+    padding: 0px;
+    width: 95%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 100%;
+    line-height: 125%;
+    background-color: #FFFFFF;
+    font-family: 'Courier New', Courier, monospace;
+  }
+  
+  .active, .collapsible:hover {
+    text-decoration:underline;
+   
+  }
+  
+  .content {
+    padding: 5px 0px;
+    display: none;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    line-height: 125%;
+    font-family: 'Courier New', Courier, monospace;
+    
   }

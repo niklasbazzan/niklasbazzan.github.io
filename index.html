@@ -7,51 +7,73 @@
         
     </head>
 <body>
-   
-    <h1 style="font-family:georgia; text-align:left; font-size: 175%;">niklas bazzan schelling</h1>
+
+<div class="flex-container">
+     <div class="fifty" style="background-color:#ffffff; width: 100%;">
+
+<p class="collapsible">niklas bazzan schelling</p>
+<div class="content">
+    <p>
+        hey, i'm nik.
+    </p>
+    <p>
+        i'm a political economist by training, which means I think much about how we should allocate resources and power.
+    </p>
+    <p>
+        i'm also interested in philosophy, especially applied ethics. This led to my involvement in <a href="https://80000hours.org/" target="_blank"><em>effective altruism,</em></a> a rationalist, longtermist approach to doing good.
+     </p> 
+</div>
+<p class="collapsible">contact</p>
+<div class="content">
+    <p>
+        niklas [dot] bazzan [at] protonmail [dot] com
+    </p>
+    <p>
+        for EA-related things, please use:<br>
+        niklas [at] effektivaltruisme [dot] no
+    </p>
+</div>
+ <p>
+    <a href="http://www.anatman.cc/" target="_blank">blog</a>
+ </p>
+ <p>
+    <a href="https://pinboard.in/u:anatman/public/" target="_blank">follow what i read</a>
+  </p>
+  <p>
+    <a href="https://www.admonymous.co/nik" target="_blank">give me feedback</a>
+ </p>
+  <p>
+    <a href="cv-niklas_bazzan_schelling.pdf" target="_blank">cv</a>
+ </p>
+
+
+ <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var content = this.nextElementSibling;
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
+      });
+    }
+    </script>
 
 </div>
-    <div class="flex-container">
-        <div class="fifty" style="background-color:#ffffff; width: 100%;">
-        <p>
-            Hey, I'm Nik.
-        </p>
-        <p>
-            I'm a political economist by training, which means I think much about how we should allocate resources and power.
-        </p>
-        <p>
-            I'm also interested in philosophy, especially applied ethics. This led to my involvement in <a href="https://80000hours.org/" target="_blank">effective altruism,</a> a rationalist, longtermist approach to doing good.
-         </p>
-        <p>
-            Here's <a href="http://www.anatman.cc/" target="_blank">a blog</a> with photos, stories, and thoughts from my life.
-        </p>    
-            
-        <p>
-            Email:<br> 
-            niklas [dot] bazzan [at] protonmail [dot] com
-        </p>
-        <p>
-            For EA-related things:<br>
-            niklas [at] effektivaltruisme [dot] no
-        </p>
-        <p>
-           Here's my <a href="cv-niklas_bazzan_schelling.pdf" target="_blank">CV</a>
-        </p>
-        <p>
-            Follow <a href="https://pinboard.in/u:anatman/public/" target="_blank">what I read</a>
-         </p>
-        <p>
-            Give me <a href="https://www.admonymous.co/nik" target="_blank">feedback</a>
-         </p>
-        </div>
-        <div class="box5050" style="background-color:#ffffff; text-align: center;">
-            <img src="img/fjord-crop.jpg" style="width:95%"><br>
-            <p style="font-size: 100%; line-height: 100%;color:black; font-family: 'Times New Roman', Times, serif; text-align: right; width: 95%;">
-                photo by <a href="https://no.linkedin.com/in/baldermorsund" target="_blank">Balder</a>
+
+<div class="fifty" style="background-color:#ffffff; text-align: left;">
+     <img src="img/fjord-crop.jpg" style="width:500px"><br>
+            <p style="font-size: 100%; line-height: 100%; color:black; text-align: right; width: 100%;">
+                by <a href="https://no.linkedin.com/in/baldermorsund" target="_blank">balder</a>
             </p>   
           </div>
-      </div>
-      
+          
+    </div>
 </body>
 
 </html>
