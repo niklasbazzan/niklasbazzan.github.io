@@ -53,7 +53,7 @@ p {
   }
   
   .content {
-    padding: 5px 0px;
+    padding: 0px;
     width: 75%;
     display: none;
     overflow: hidden;
