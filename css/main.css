@@ -1,20 +1,22 @@
 body {
   margin: 40px auto;
   width: 90%;
+  background-color: #120017;
 }
 
 a {
   text-decoration: none;
-  color: black;
+  color: #fefaff;
 }
 a:hover {
-  text-decoration:underline;
+  font-weight: bold;
+  
 }
 
 p {
-  font-size: 100%;
+  font-size: 150%;
   line-height: 125%;
-  color: 	black;
+  color:#fefaff; 
   width: 95%;
   font-family:'Courier New', Courier, monospace;
 }
@@ -40,23 +42,25 @@ p {
     border: none;
     text-align: left;
     outline: none;
-    font-size: 100%;
+    font-size: 150%;
     line-height: 125%;
-    background-color: #FFFFFF;
+    background-color: #120017;
     font-family: 'Courier New', Courier, monospace;
   }
   
   .active, .collapsible:hover {
-    text-decoration:underline;
-   
+    font-weight: bold;
   }
   
   .content {
     padding: 5px 0px;
+    width: 75%;
     display: none;
     overflow: hidden;
-    background-color: #FFFFFF;
-    line-height: 125%;
+    background-color: #120017;
+    color: #fefaff;
+    font-size: 125%;
+    line-height: 150%;
     font-family: 'Courier New', Courier, monospace;
     
   }
