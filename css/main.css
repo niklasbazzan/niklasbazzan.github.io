@@ -1,7 +1,7 @@
 body {
   margin: 40px auto;
   width: 90%;
-  background-color: #120017;
+  background-color: black;
 }
 
 a {
@@ -10,7 +10,6 @@ a {
 }
 a:hover {
   font-weight: bold;
-  
 }
 
 p {
@@ -21,6 +20,21 @@ p {
   font-family:'Courier New', Courier, monospace;
 }
 
+p.photo {
+ 
+  margin: auto;
+  width: 70%;
+  padding: 70px 0px;
+}
+
+p.rock {
+  font-size: 100%;
+  line-height: 100%;
+  color: 	#696969;
+  margin: auto;
+  width: 40%; 
+  padding: 20px 0px 50px 0px;
+}
 
 .flex-container {
     display: flex;
@@ -29,9 +43,8 @@ p {
   }
 
   .flex-container .fifty {
-    background-color: #f1f1f1;
+    background-color: black;
     width: 50%;
-    color: #000000;
     word-wrap: break-word;
   }
 
