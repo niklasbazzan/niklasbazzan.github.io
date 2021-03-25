@@ -8,8 +8,14 @@ a {
   text-decoration: none;
   color: #fefaff;
 }
+
 a:hover {
   font-weight: bold;
+}
+
+a.article {
+  text-decoration: underline;
+  color: #fefaff;
 }
 
 p {
@@ -67,7 +73,7 @@ p.rock {
   
   .content {
     padding: 0px;
-    width: 75%;
+    width: 90%;
     display: none;
     overflow: hidden;
     background-color: #120017;
