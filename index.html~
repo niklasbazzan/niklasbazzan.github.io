@@ -8,9 +8,14 @@
     </head>
 <body style="background-color: #120017">
 
-  <p>
+  <p class="collapsible">
     * niklas bazzan schelling
   </p>
+  <div class="content">
+      hey, i'm nik.<br>
+      i'm a political economist by training, which means i think much about how we should allocate resources and power.<br>
+      i'm also interested in philosophy, especially applied ethics. This led to my involvement in <a href="https://80000hours.org/"  target="_blank"><em>effective altruism,</em></a> a rationalist, longtermist approach to doing good.<br>
+  </div>
 
   <p class="collapsible">
     * contact
