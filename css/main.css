@@ -80,8 +80,8 @@ p.rock {
     width: 90%;
     display: none;
     overflow: hidden;
-    background-color: #120017;
-    color: #fefaff;
+    background-color: black;
+    color: black;
     font-size: 125%;
     line-height: 150%;
     font-family: 'Courier New', Courier, monospace;
