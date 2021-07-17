@@ -9,17 +9,12 @@ body {
   background-color: black;
 }
 a {
-  text-decoration: none;
+  text-decoration: underline;
   color: #fefaff;
 }
 
 a:hover {
   font-weight: bold;
-}
-
-a.article {
-  text-decoration: underline;
-  color: #fefaff;
 }
 
 p {
