@@ -30,6 +30,13 @@ p {
   font-family:'Courier New', Courier, monospace;
 }
 
+p.front{
+  font-size: 150%;
+  line-height: 125%;
+  color:#fefaff;
+  width: 75%;
+  font-family:'Courier New', Courier, monospace;
+}
 p.photo {
 
   margin: auto;

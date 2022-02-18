@@ -3,8 +3,9 @@ layout: front
 title: nik
 ---
 
+<p class="front">
 # hi, i'm nik :-)  
-### links
+### links:
 - [blog](https://niklasbazzan.github.io/blog/)
 - [github](https://www.github.com/niklasbazzan)
 - [linkedin](https://www.linkedin.com/in/niklasbazzan/)
@@ -15,3 +16,4 @@ title: nik
 - (2022) [cardboard surfboard](https://github.com/niklasbazzan/cardboard-surfboard)
 - (2020) [faq: ubi](https://niklasbazzan.github.io/stories/ubi.html)
 - (2019) [plotr](https://github.com/niklasbazzan/plotr)
+</p>
