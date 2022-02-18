@@ -1,0 +1,28 @@
+body {
+  margin: 40px auto;
+  width: 90%;
+  background-color: #fbffdb;
+}
+.container{
+  margin: 40px auto;
+  width: 90%;
+  background-color: #fbffdb;
+}
+
+a {
+  text-decoration: underline;
+  color: #black;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+p {
+  font-size: 150%;
+  line-height: 125%;
+  color:#fefaff;
+  width: 75%;
+  font-family:'Courier New', Courier, monospace;
+}
+

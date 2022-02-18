@@ -4,7 +4,7 @@ title: nik
 ---
 
 
-# hi, i'm nik :-)  
+## hi, i'm nik :-)  
 ### links:
 - [blog](https://niklasbazzan.github.io/blog/)
 - [github](https://www.github.com/niklasbazzan)
