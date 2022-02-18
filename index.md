@@ -3,7 +3,7 @@ layout: front
 title: nik
 ---
 
-<p class="front">
+<span style="font-size: 150%; line-height: 125%; color:#fefaff; width: 75%; font-family:'Courier New', Courier, monospace;">
 # hi, i'm nik :-)  
 ### links:
 - [blog](https://niklasbazzan.github.io/blog/)
@@ -16,4 +16,4 @@ title: nik
 - (2022) [cardboard surfboard](https://github.com/niklasbazzan/cardboard-surfboard)
 - (2020) [faq: ubi](https://niklasbazzan.github.io/stories/ubi.html)
 - (2019) [plotr](https://github.com/niklasbazzan/plotr)
-</p>
+</span>.
