@@ -10,7 +10,7 @@ title: nik
 - [github](https://www.github.com/niklasbazzan)
 - [linkedin](https://www.linkedin.com/in/niklasbazzan/)
 - [give me (anonymous) feedback](https://www.admonymous.co/nik)
-- feel free to reach out at _niklas_ (dot) _bazzan_ (at) _protonmail_ (dot) _com_
+- feel free to reach out at _niklas_ (dot) _bazzan_ (at) _proton_ (dot) _me_
 
 ### projects:
 - (2022) [cardboard surfboard](https://github.com/niklasbazzan/cardboard-surfboard), a python script for making laser-cut cardboard surfboards.
