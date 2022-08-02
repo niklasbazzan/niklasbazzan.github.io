@@ -1,0 +1,53 @@
+---
+layout: default
+title: walking along the GR34
+---
+
+<img src="/img/camaret/000430590020.jpg">
+
+walking along the GR34  
+(august 2018)
+
+Nik: Mai and I were in Quimper, in the west of France, and wanted to get to Camaret, in the very very west of France.
+We thought we could catch a bus and found that there were none. In that moment this dude in his van
+pulled into the bus stop and asked if anyone was going to Crozon, which is right by Camaret.
+
+It was so lucky, he was our saviour! I forgot his name but remember that he had a wonderful voice
+and sang Adele and was kind to us.
+
+<img src="/img/camaret/000430590018.jpg">
+
+We caught a ride to Camaret too.
+
+<img src="/img/camaret/000430590016.jpg">
+<img src="/img/camaret/000430590014.jpg">
+<img src="/img/camaret/000430590013.jpg">
+<img src="/img/camaret/000430590011.jpg">
+
+We found another beach and swam as we followed the GR34 south.
+
+The rising tide flooded our way back to the trail.
+
+<img src="/img/camaret/000430590010-1.jpg">
+<img src="/img/camaret/000430590008.jpg">
+<img src="/img/camaret/000430590007.jpg">
+<img src="/img/camaret/stitch.jpg" style="width:100%;">
+<img src="/img/camaret/000430590006.jpg">
+<img src="/img/camaret/000430590003.jpg">
+<img src="/img/camaret/000430600022.jpg">
+<img src="/img/camaret/000430600019.jpg">
+<img src="/img/camaret/stitch2.jpg" style="width:100%;">
+<img src="/img/camaret/000430600014.jpg">
+<img src="/img/camaret/000430600013.jpg">
+<img src="/img/camaret/000430600012.jpg">
+There were barely any places to buy food by the trail so we were hungry often and ate a ton of blackberries.
+<img src="/img/camaret/000430600001-1.jpg">
+<img src="/img/camaret/000430600007.jpg">
+<img src="/img/camaret/000430600004.jpg">
+<img src="/img/camaret/000430580022.jpg">
+<img src="/img/camaret/000430580020.jpg">
+
+Douarnenez, the end of our walk. We were starving and found a supermarket and caught a ride. The guy was a public servant who enjoys helping people. He wasn't going that far actually but decided to drive us all the way to Pointe du Raz, which felt like the end of the world. &#9632;
+
+<img src="/img/camaret/000430580018-1.jpg">
+<img src="/img/camaret/000430580013-3.JPG">

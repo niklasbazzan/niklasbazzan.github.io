@@ -1,17 +1,13 @@
 body {
-  margin: 40px auto;
+  margin: auto;
   width: 90%;
   background-color: black;
 }
+
 .container{
   margin: 40px auto;
-  width: 90%;
+  width: 100%;
   background-color: black;
-}
-.container_front{
-  margin: 40px auto;
-  width: 90%;
-  background-color: #fbffdb;
 }
 
 a {
@@ -24,34 +20,36 @@ a:hover {
 }
 
 p {
-  font-size: 150%;
-  line-height: 125%;
-  color:#fefaff;
-  width: 75%;
-  font-family:'Courier New', Courier, monospace;
-}
-
-p.front{
-  font-size: 150%;
-  line-height: 125%;
-  color:#fefaff;
-  width: 75%;
-  font-family:'Courier New', Courier, monospace;
-}
-p.photo {
-
-  margin: auto;
-  width: 70%;
-  padding: 70px 0px;
-}
-
-p.rock {
-  font-size: 100%;
+  font-size: 300%;
   line-height: 100%;
-  color: 	#696969;
+  font-family: 'Courier New', Courier, monospace;
+  color:#fefaff;
+}
+
+ul {
+  font-size: 300%;
+  line-height: 100%;
+  font-family: 'Courier New', Courier, monospace;
+  color:#fefaff;
+}
+
+ol {
+  font-size: 300%;
+  line-height: 100%;
+  font-family: 'Courier New', Courier, monospace;
+  color:#fefaff;
+}
+
+img {
+  display: block;
   margin: auto;
-  width: 40%;
-  padding: 20px 0px 50px 0px;
+  width: 100%;
+  padding: 20px 0px 100px 0px;
+}
+
+iframe {
+  width: 100%;
+  height: 480px;
 }
 
 .flex-container {
@@ -93,5 +91,17 @@ p.rock {
     font-size: 125%;
     line-height: 150%;
     font-family: 'Courier New', Courier, monospace;
+  }
 
+  .btn {
+    border: none;
+    background-color: inherit;
+    color:#fefaff;
+    font-size: 500%;
+    cursor: pointer;
+    display: inline-block;
+  }
+
+  .btn:hover {
+    font-weight: bold;
   }
