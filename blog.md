@@ -4,7 +4,7 @@ title: moving still
 ---
 
 27.8.19
-<img src="img/zee.jpg">
+<img src="img/zee-scaled.jpg">
 
   
 24.4.22
