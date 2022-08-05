@@ -3,10 +3,9 @@ layout: default
 title: moving still
 ---
 
-27.8.19
+27.8.19 by a stranger
 <img src="img/zee-scaled.jpg">
 
-  
 24.4.22
 <img src="img/light.gif">
 
