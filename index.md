@@ -19,10 +19,6 @@ projects:
 
 a python script for making laser-cut cardboard surfboards.
 
-- (2020) [faq: ubi](/ubi.html)
-
-frequently asked questions about universal basic income.
-
 - (2019) [plotr](https://github.com/niklasbazzan/plotr)
 
 an r shiny app for simple, interactive data visualizations.
