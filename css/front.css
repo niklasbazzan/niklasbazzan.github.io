@@ -1,24 +1,26 @@
 body {
   margin: auto;
   width: 90%;
-  background-color: #fbffdb;
+  background-color: black;
 }
 
 .container{
   margin: 40px auto;
   width: 100%;
-  background-color: #fbffdb;
+  background-color: black;
+  color: #fefaff;
 }
 
 p {
   font-size: 400%;
+  color: #fefaff;
   line-height: 90%;
   font-family: 'Courier New', Courier, monospace;
 }
 
 a {
   text-decoration: underline;
-  color: black;
+  color: #fefaff;
   font-family: 'Courier New', Courier, monospace;
 }
 
