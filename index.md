@@ -1,9 +1,9 @@
 ---
-title: nik
+title: niklas bazzan schelling
 layout: front
 ---
 
-:-) hi, i'm nik
+niklas bazzan schelling
 
 links:
 
