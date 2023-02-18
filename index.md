@@ -7,9 +7,9 @@ niklas bazzan schelling
 
 links:
 
+- [cv](/cv.html)
 - [blog](/blog.html)
 - [github](https://www.github.com/niklasbazzan)
-- [linkedin](https://www.linkedin.com/in/niklasbazzan/) 
 - [give me feedback](https://www.admonymous.co/nik)
 - niklas [dot] bazzan [at] proton [dot] me
 

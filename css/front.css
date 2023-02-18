@@ -1,6 +1,6 @@
 body {
   margin: auto;
-  width: 90%;
+  width: 75%;
   background-color: black;
 }
 
@@ -12,7 +12,7 @@ body {
 }
 
 p {
-  font-size: 400%;
+  font-size: 250%;
   color: #fefaff;
   line-height: 90%;
   font-family: 'Courier New', Courier, monospace;
@@ -29,7 +29,7 @@ a:hover {
 }
 
 ul {
-  font-size: 400%;
+  font-size: 250%;
   line-height: 125%;
   font-family: 'Courier New', Courier, monospace;
 }
