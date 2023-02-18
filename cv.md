@@ -1,9 +1,9 @@
 ---
-title: cv
+title: cv, nbs
 layout: front
 ---
 
-cv: niklas bazzan schelling
+cv, niklas bazzan schelling
 
 **employment**
 
