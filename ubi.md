@@ -85,8 +85,9 @@ But regardless of whether automation creates unemployment, meaningless jobs, or 
 
 Cashier jobs disappear but new jobs in the tech-sector are created. We call it creative-destruction and often assume it’s equal parts creation and destruction. But the <a href="http://news.mit.edu/2020/study-inks-automation-inequality-0506">trend,</a> especially since the late 20th century, has been that when jobs were automated, more jobs were displaced than created, wealth gains went to the few, and the wealth and income gap widened.
 
-The fall and rise of income inequality: Share of national income going to the richest 1%</u>
-<a href="https://wid.world/"><img src="/img/musings/wid.jpg" style="width:75%; padding:0px 0px 20px 0px;"></a>
+The fall and rise of income inequality: Share of national income going to the richest 1%
+
+<a href="https://wid.world/"><img src="img/wid.jpg" style="width:75%; padding:0px 0px 20px 0px;"></a>
 
 Look, we beat high inequality before. We can do it again. The rich didn’t volunteer to redistribute wealth then, and they won’t now.
 
@@ -111,7 +112,7 @@ Both schemes include extra support for differently abled people, cuts to current
 
 Another way that taxes might pay for a UBI is through a “value-added tax” (VAT). This tax already exists in many places, and is simply a certain fraction of any sale price. Europeans for example pay about <a href="https://taxfoundation.org/vat-rates-europe-2019/">21%</a> of everything they buy towards VAT. Here’s a simplified model for how a VAT could fund a universal basic income:
 
-<img src="/img/musings/ubi_vat.JPG" style="width:75%; padding:0px 0px 20px 0px;">
+<img src="img/ubi_vat.JPG" style="width:75%; padding:0px 0px 20px 0px;">
 
 Here, in a given month, everyone receives $1000 as UBI. Person A doesn’t have any additional income, while everyone else does. Everyone pays 50% of their spending towards the value-added tax.
 
@@ -164,9 +165,6 @@ But who’ll do the dirty work?
 If everyone has an unconditional living wage, would anyone be willing to do the “dirty work”? Who will do the manual labour of picking rubbish, or repetitive work like being a cashier?
 
 Hidden inside this concern is a recognition that such jobs are underpaid and that people wouldn’t do them if they had a real choice. That might be true, in which case these jobs would simply have to pay more. Also, automation is rapidly replacing these low-skill jobs, as already seen with cashiers, and the incentive to automate these jobs will increase the more expensive it is to get humans to do them.
-    
-<img src="/img/musings/rubbish.jpg" style="width:75%;">
-“Dirty work,” automated.
 
 An unconditional basic income also allows people to do work they couldn’t do otherwise. Markets often under-provide valuable services that aren’t directly profitable. For example: protecting ecosystems is a very valuable thing to do (even if one only cares about human beings), but it is a service that is underprovided. This is because the benefits of healthy ecosystems (e.g. cleaner air) are spread out; the benefits hardly create profits for the service-provider. The situation is similar in the case of access to quality education. Because although the benefits of a more equitable and skilled society are great, they are diffuse, and so money-seeking entrepreneurs don’t find it worthwhile to invest in quality education for everyone.
 
