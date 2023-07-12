@@ -3,6 +3,9 @@ layout: default
 title: moving still
 ---
 
+8.7.23
+<img src="img/Photo0984.jpg"    >
+
 1.6.23
 <img src="img/Photo0826.jpg">
 

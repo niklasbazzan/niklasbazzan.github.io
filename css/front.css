@@ -34,4 +34,11 @@ ul {
   font-family: 'Courier New', Courier, monospace;
 }
 
+img {
+  display: block;
+  margin: auto;
+  max-width: 100%; 
+  width: auto;
+  padding: 20px 0px 20px 0px;
+}
 

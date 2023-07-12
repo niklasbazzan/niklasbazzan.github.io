@@ -3,8 +3,8 @@ title: nik
 layout: front
 ---
 
-<img src="img/rock.jpg" style="width: 100%;" href="/">
+<img src="img/rock.jpg" href="/">
 
-niklas bazzan schelling
+niklas bazzan
 
-niklas [dot] bazzan [at] proton [dot] me
+niklas [dot] bazzan [at] proton [dot] me    
