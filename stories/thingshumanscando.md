@@ -11,6 +11,7 @@ Nik: As computers begin to recognize emotions, compose music, and write articles
 <img src="/img/hi/DSC04537.jpg">
 
 **Enrico**
+
 “I can listen. I can be moved by the sixth book of the Aeneid. And the fourth. We are especially good at being especially imperfect in what we do. I think this makes human life precious, the fact that we are limited. It gives value.”
 
 *Nik: Would the human endeavour be valuable if we did everything perfectly?*
@@ -25,6 +26,7 @@ Achilles was talking to his mother, who is a demigoddess, and Achilles is going 
 <img src="/img/hi/DSC04701.jpg">
 
 **Ruei**
+
 “I think emotion is the main point that I can do over a computer. Because I think when you are making a decision you have to observe how people react and I think it’s hard for a computer to analyse this.”
 
 “Building trust. Imagine if my computer doesn’t work. Then the computer is broken. So I will just throw it away and change it  for another one. But as a human if I do something that breaks your heart you wouldn’t just; ‘OK. I’m not going to make friends with you.’ There is still a chance for those people to pick up the friendship again and again.”
@@ -38,6 +40,7 @@ Achilles was talking to his mother, who is a demigoddess, and Achilles is going 
 “No. I wouldn’t want to completely overcome suffering because I think happiness is relative. If there was no suffering, I wouldn’t feel happier.”
 
 <img src= "/img/hi/DSC04656.jpg">
+
 **Caoimhe**
 
 “I can fall in love in a couple of minutes and I don’t think a computer can. I think I can feel things that a computer can’t. Because computers have to deal with information and algorithms that exist, whereas I think humans can deal with information in terms of love and emotions and relationships, which don’t exist.”

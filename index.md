@@ -3,8 +3,11 @@ layout: default
 title: moving still
 ---
 
+10.9.23
+<img src="img/Photo1107.jpg">
+
 8.7.23
-<img src="img/Photo0984.jpg"    >
+<img src="img/Photo0984.jpg">
 
 1.6.23
 <img src="img/Photo0826.jpg">
@@ -13,7 +16,7 @@ title: moving still
 <img src="img/Photo0201.jpg">
 
 27.8.19 by a stranger
-<img src="img/zee-scaled.jpg">
+<img src="img/zee.jpg">
 
 24.4.22
 <img src="img/light.gif">
@@ -83,11 +86,6 @@ Blægja
 7.8.19 Kyoto bakery
 <img src="img/kyotobakery.gif">
 
-3.7.20  
-<a href="/ubi.html" style="font-weight: bold; font-size:400%; line-height: 100%; font-family:georgia;">faq: ubi</a>
-
-<p style = "padding-bottom: 100px;">(frequently asked questions about universal basic income)</p>
- 
 2.3.20 work in progress
 <img src="img/DSC09376.jpg" class="portrait">
 
@@ -145,7 +143,7 @@ Mai, I am glad you were born.
 <img src="img/DSC02678.jpg">
 		
 <a href="/stories/thingshumanscando.html">
-Things humans can do that computer's can't (yet).
+Things humans can do that computers can't (yet).
 <img src="img/hi/DSC04673.jpg"/>
 </a>
 
