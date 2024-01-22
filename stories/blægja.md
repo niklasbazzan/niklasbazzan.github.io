@@ -1,13 +1,12 @@
 ---
 layout: default
-title: Blægja
+title: blægja
 ---
 
-Blægja  
+blægja  
 (april 2016)
 
 Maja took these photos. &#9632;
-
 <img src="/img/blægja/61430013.jpg"/>
 <img src="/img/blægja/61430012.jpg"/>
 <img src="/img/blægja/61430011.jpg"/>

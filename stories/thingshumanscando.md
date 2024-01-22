@@ -3,7 +3,8 @@ layout: default
 title: things humans can do that computers can't (yet).
 ---
 
-things humans can do that computers can't (yet).  
+things humans can do that computers can't (yet).
+  
 (may 2019) a photo exhibition
 
 Nik: As computers begin to recognize emotions, compose music, and write articles, a future in which artificial intelligences can do anything humans do seems not impossible. I asked a few humans; “What can you do that computers can’t?” to look beneath the surface of human intelligence, to see what makes humans human, and what makes us complex computers.

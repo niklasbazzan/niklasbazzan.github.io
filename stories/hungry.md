@@ -5,6 +5,7 @@ title: hungry
 
 hungry  
 (october 2017)
+
 <img src="/img/hungry/000216630001.jpg">
 
 Nik: I wanted to leave the city for the mountains, just for a weekend. I biked north, the air became clearer, the houses became sparser, and I could see a wall of foothills in front of me, which form one side of the valley in which Kathmandu lies. I crossed the hill as the sun set. Flying down the other side I rolled into a little village with a guesthouse. The room was full of lizards and spiders and other little creatures, and I slept well.
