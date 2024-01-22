@@ -16,13 +16,12 @@ a {
 }
 
 a:hover {
-  font-weight: bold;
+  text-decoration: none;
 }
 
 p {
-  font-size: 300%;
-  line-height: 100%;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+  line-height: 1.5em;
   color:#fefaff;
 }
 
@@ -45,7 +44,7 @@ img {
   margin: auto;
   max-width: 100%; 
   width: auto;
-  padding: 20px 0px 100px 0px;
+  padding: 75px 0px 75px 0px;
 }
 
 iframe {

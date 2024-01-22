@@ -12,10 +12,9 @@ body {
 }
 
 p {
-  font-size: 250%;
-  color: #fefaff;
-  line-height: 90%;
-  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5em;
+  line-height: 1.5em;
+  color:#fefaff;
 }
 
 a {
@@ -37,8 +36,6 @@ ul {
 img {
   display: block;
   margin: auto;
-  max-width: 100%; 
-  width: auto;
-  padding: 20px 0px 20px 0px;
+  max-width: 55%;
+  padding: 20px 0px 50px 0px;
 }
-
