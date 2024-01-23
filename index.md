@@ -58,8 +58,6 @@ blægja
 <img src="img/blægja/61430007.jpg"/>
 </a>
 
-<img src="img/DSC08715.jpg" id = "31.8.19 Malie Madness">
-
 <img src="img/kyotobakery.gif" id = "7.8.19 Kyoto bakery">
 
 <a href="stories/18.html">
