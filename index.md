@@ -26,17 +26,17 @@ title: moving still
 <img src="img/stitch3.jpg" style = "padding-bottom: 0px;" id = "26.10.19 vall de núria">
 <img src="img/stitch4.jpg">
 
-<a href="stories/19.html">
+<a href="/19.html">
 19
 <img src="img/japan_nineteen/gif.gif" style = "padding-top: 0px;"/>
 </a>
 
-<a href="stories/marandluka.html">
+<a href="/marandluka.html">
 to Mar and Luka 
 <img src="img/dolomiti/DSC00263.jpg" style = "padding-top: 0px;">
 </a>
 
-<a href="stories/nói.html">
+<a href="/nói.html">
 nói
 <img src="img/nói/000216630008-1.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -53,14 +53,14 @@ nói
 
 <img src="img/fish1_lo.jpg" style = "padding-bottom: 20px;">
 	
-<a href="stories/blægja.html">
+<a href="/blægja.html">
 blægja
 <img src="img/blægja/61430007.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/kyotobakery.gif" id = "7.8.19 Kyoto bakery">
 
-<a href="stories/18.html">
+<a href="/18.html">
 18
 <img src="img/camaret/000430590018.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -69,12 +69,12 @@ blægja
 
 <img src="img/DSC08951.jpg" id = "27.10.19 Mar in the mountains">
 
-<a href="/stories/betweenspaceandtime.html">
+<a href="/betweenspaceandtime.html">
 between space and time
 <img src="img/nepal/000215400009.jpg" style = "padding-top: 0px;"/>
 </a>
 
-<a href="/stories/hungry.html">
+<a href="/hungry.html">
 hungry
 <img src="img/hungry/000216630016.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -87,7 +87,7 @@ hungry
 
 <img src="img/DSC02678.jpg" id = "6.5.19 Mai, I am glad you were born.">
 		
-<a href="/stories/thingshumanscando.html">
+<a href="/thingshumanscando.html">
 things humans can do that computers can't (yet).
 <img src="img/hi/DSC04673.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -105,7 +105,7 @@ Doing dishes the other day I was suddenly overwhelmed with smiles and tears of j
 
 <img src="img/000465410025.jpg" id = "X.3.18 Last spring in Bir">
 
-<a href="/stories/mountainsinthesea.html">
+<a href="/mountainsinthesea.html">
 mountains in the sea
 <img src="img/lofoten/DSC02177.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -116,7 +116,7 @@ mountains in the sea
 
 <img src="img/DSC03965.jpg" id = "1.1.19">
 
-<a href="/stories/tianshan.html">
+<a href="/tianshan.html">
 tian shan
 <img src="img/kyrgyzstan/IMG_9777.jpg" style = "padding-top: 0px;"/>
 </a>
