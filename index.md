@@ -28,17 +28,17 @@ title: moving still
 
 <a href="stories/19.html">
 19
-<img src="img/japan_nineteen/gif.gif" caption = "19"/>
+<img src="img/japan_nineteen/gif.gif" style = "padding-top: 0px;"/>
 </a>
 
 <a href="stories/marandluka.html">
-to Mar and Luka
-<img src="img/dolomiti/DSC00263.jpg">
+to Mar and Luka 
+<img src="img/dolomiti/DSC00263.jpg" style = "padding-top: 0px;">
 </a>
 
 <a href="stories/nói.html">
 nói
-<img src="img/nói/000216630008-1.jpg"/>
+<img src="img/nói/000216630008-1.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/biscarrosse_crop.jpg" id = "8.10.20 biscarrosse">
@@ -55,14 +55,14 @@ nói
 	
 <a href="stories/blægja.html">
 blægja
-<img src="img/blægja/61430007.jpg"/>
+<img src="img/blægja/61430007.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/kyotobakery.gif" id = "7.8.19 Kyoto bakery">
 
 <a href="stories/18.html">
 18
-<img src="img/camaret/000430590018.jpg"/>
+<img src="img/camaret/000430590018.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/nepal/000215400031.jpg" id = "X.10.17">
@@ -71,18 +71,17 @@ blægja
 
 <a href="/stories/betweenspaceandtime.html">
 between space and time
-<img src="img/nepal/000215400009.jpg"/>
+<img src="img/nepal/000215400009.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <a href="/stories/hungry.html">
 hungry
-<img src="img/hungry/000216630016.jpg"/>
+<img src="img/hungry/000216630016.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/DSC05525.jpg" id = "14.7.19 Katrine">
 
-by Prashant
-<img src="img/DSC1367.jpg" id = "29.7.19">
+<img src="img/DSC1367.jpg" id = "29.7.19 by prashant">
 
 <img src="img/DSC05207.jpg" id = "15.6.19 Leif">
 
@@ -90,7 +89,7 @@ by Prashant
 		
 <a href="/stories/thingshumanscando.html">
 things humans can do that computers can't (yet).
-<img src="img/hi/DSC04673.jpg"/>
+<img src="img/hi/DSC04673.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/DSC03545.jpg" id = "9.11.18 Endlos">
@@ -108,7 +107,7 @@ Doing dishes the other day I was suddenly overwhelmed with smiles and tears of j
 
 <a href="/stories/mountainsinthesea.html">
 mountains in the sea
-<img src="img/lofoten/DSC02177.jpg"/>
+<img src="img/lofoten/DSC02177.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <img src="img/DSC02851.jpg" id = "21.9.18">
@@ -119,5 +118,5 @@ mountains in the sea
 
 <a href="/stories/tianshan.html">
 tian shan
-<img src="img/kyrgyzstan/IMG_9777.jpg"/>
+<img src="img/kyrgyzstan/IMG_9777.jpg" style = "padding-top: 0px;"/>
 </a>
