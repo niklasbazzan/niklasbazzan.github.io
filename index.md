@@ -2,6 +2,9 @@
 layout: default
 title: moving still
 ---
+
+<img src="img/Photo0866.jpg" id = "10.6.23">
+
 <img src="img/Photo1074.jpg" id = "24.8.23">
 
 <img src="img/Photo0796.jpg" id = "28.5.23">
