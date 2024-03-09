@@ -3,8 +3,6 @@ layout: default
 title: tian shan
 ---
 
-<img src="/img/kyrgyzstan/IMG_9721.jpg">
-
 tian shan  
 (july 2017)
 
