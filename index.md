@@ -3,6 +3,8 @@ layout: default
 title: moving still
 --- 
 
+<img src="img/fjord.gif" id = "16.5.25">
+
 <img src="img/Photo1072.jpg" id = "20.8.23">
 
 <img src="img/Photo0612.jpg" id = "01.5.25">
