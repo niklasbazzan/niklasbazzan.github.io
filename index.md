@@ -3,8 +3,6 @@ layout: default
 title: moving still
 --- 
 
-<img src="img/fjord.gif" id = "16.5.25">
-
 <img src="img/Photo1072.jpg" id = "20.8.23">
 
 <img src="img/Photo0612.jpg" id = "01.5.25">
@@ -45,7 +43,7 @@ title: moving still
 <img src="img/japan_nineteen/gif.gif" style = "padding-top: 0px;"/>
 </a>
 
-<a href="/marandluka.html">
+<a href="/20.html">
 to Mar and Luka 
 <img src="img/dolomiti/DSC00263.jpg" style = "padding-top: 0px;">
 </a>
@@ -74,7 +72,7 @@ blægja
 
 <img src="img/kyotobakery.gif" id = "7.8.19 Kyoto bakery">
 
-<a href="/18.html">
+<a href="/august18.html">
 18
 <img src="img/camaret/000430590018.jpg" style = "padding-top: 0px;"/>
 </a>
@@ -83,13 +81,13 @@ blægja
 
 <img src="img/DSC08951.jpg" id = "27.10.19 Mar in the mountains">
 
-<a href="/betweenspaceandtime.html">
-between space and time
+<a href="/17.html">
+17
 <img src="img/nepal/000215400009.jpg" style = "padding-top: 0px;"/>
 </a>
 
 <a href="/hungry.html">
-hungry
+17
 <img src="img/hungry/000216630016.jpg" style = "padding-top: 0px;"/>
 </a>
 
@@ -100,11 +98,6 @@ hungry
 <img src="img/DSC05207.jpg" id = "15.6.19 Leif">
 
 <img src="img/DSC02678.jpg" id = "6.5.19 Mai, I am glad you were born.">
-		
-<a href="/thingshumanscando.html">
-things humans can do that computers can't (yet).
-<img src="img/hi/DSC04673.jpg" style = "padding-top: 0px;"/>
-</a>
 
 <img src="img/DSC03545.jpg" id = "9.11.18 Endlos">
 
@@ -119,8 +112,8 @@ Doing dishes the other day I was suddenly overwhelmed with smiles and tears of j
 
 <img src="img/000465410025.jpg" id = "X.3.18 Last spring in Bir">
 
-<a href="/mountainsinthesea.html">
-mountains in the sea
+<a href="/juli18.html">
+18
 <img src="img/lofoten/DSC02177.jpg" style = "padding-top: 0px;"/>
 </a>
 

@@ -3,10 +3,10 @@ layout: default
 title: blægja
 ---
 
-blægja  
-(april 2016)
+*blægja*  
+april 2016
 
-Maja took these photos. &#9632;
+Maja's photos.
 <img src="/img/blægja/61430013.jpg"/>
 <img src="/img/blægja/61430012.jpg"/>
 <img src="/img/blægja/61430011.jpg"/>

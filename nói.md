@@ -2,8 +2,9 @@
 layout: default
 title: nói
 ---
+
 nói  
-(spring 2018) Mai's words
+2017-2018
 
 Mai: Nói in Vietnamese simply means “tell or say”.
 
