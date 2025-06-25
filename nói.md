@@ -3,7 +3,7 @@ layout: default
 title: nói
 ---
 
-nói  
+*nói*  
 2017-2018
 
 Mai: Nói in Vietnamese simply means “tell or say”.
