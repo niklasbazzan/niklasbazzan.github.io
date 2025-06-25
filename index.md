@@ -86,7 +86,7 @@ blægja
 <img src="img/nepal/000215400009.jpg" style = "padding-top: 0px;"/>
 </a>
 
-<a href="/hungry.html">
+<a href="/october17.html">
 17
 <img src="img/hungry/000216630016.jpg" style = "padding-top: 0px;"/>
 </a>

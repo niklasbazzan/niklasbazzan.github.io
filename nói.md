@@ -155,8 +155,6 @@ Parfois, on a sué trop après avoir marché pour longtemps. Donc, nous nous som
 
 *Sometimes, we sweated too much after having walked for a long time. Therefore, we threw ourselves in the ocean, and then continued walking.*
 
-<img src="/img/nói/000465420018-1.jpg">
-
 Pour la plupart de temps, on a marché avec nos sacs au bord de la mer. On a puis essayé de trouver en endroit aussi à côté de la mer pour installer notre tente où on s'est couché. Dans cette photo particulièrement, on cherchait à arriver à la mer pour nettoyer nos visages, car les enfants dans le village, après avoir nous épiés, ont mis sur nos visages un mélange de kakas de vache et couleur, car c'était le festival d'Holi. On puait ??
 
 *For most of the time, we walked along the sea with our back-packs. We then tried to find a safe space close also to the water to set up our tent where we slept. In this photo particularly, we searched for the ocean to clean our face, because the village children, after having spied on us, had put a mixture of cow's poops and color onto our face. It was Holy festival. We stinked.*

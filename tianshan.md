@@ -3,7 +3,8 @@ layout: default
 title: tian shan
 ---
 
-*tian shan*
+*tian shan*     
+july 2017
 <img src="/img/kyrgyzstan/IMG_0479.jpg">
 <img src="/img/kyrgyzstan/IMG_9343.jpg">
 <img src="/img/kyrgyzstan/IMG_0773.JPG">

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: hungry
+title: 17
 ---
 
-*hungry*
+*17*
 <img src="/img/hungry/000216630001.jpg">
 <img src="/img/hungry/000216630009.jpg">
 <img src="/img/hungry/000216630011.jpg">
