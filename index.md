@@ -1,6 +1,6 @@
 ---
 layout: default
-title: moving still
+title: flyttelass
 --- 
 
 <img src="img/Photo1072.jpg" id = "20.8.23">
