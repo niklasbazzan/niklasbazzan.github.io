@@ -99,8 +99,6 @@ blægja
 
 <img src="img/DSC05207.jpg" id = "15.6.19 Leif">
 
-<img src="img/DSC02678.jpg" id = "6.5.19 Mai, I am glad you were born.">
-
 <img src="img/DSC03545.jpg" id = "9.11.18 Endlos">
 
 <img src="img/cropped4.jpg">
